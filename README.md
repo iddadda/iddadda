@@ -7,5 +7,5 @@
 />
 </a>
 
-<a href="https://gitgarden.marshallku.dev/?user_name=iddadda)](https://github.com/marshallku/gitgarden"></a>
+<a href="https://gitgarden.marshallku.dev/?user_name=iddadda)](https://github.com/marshallku/gitgarden" width="600"></a>
 [![GitGarden](https://gitgarden.marshallku.dev/?user_name=iddadda)](https://github.com/marshallku/gitgarden)
