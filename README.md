@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dagyeong</h1>
 <h3 align="center">i'm groot</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iddadda" alt="iddadda" /></a> </p>
 
 - 🔭 I’m currently working on <a src="https://www.notion.so/MSA-2-264b5ca759e880f893aec3dbb510ee2a">notion</a> [OneToday](https://www.notion.so/MSA-2-264b5ca759e880f893aec3dbb510ee2a)
 
