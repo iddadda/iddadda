@@ -1,3 +1,24 @@
+<h1 align="center">Hi 👋, I'm Dagyeong</h1>
+<h3 align="center">i'm groot</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iddadda" alt="iddadda" /></a> </p>
+
+- 🔭 I’m currently working on <a src="https://www.notion.so/MSA-2-264b5ca759e880f893aec3dbb510ee2a">notion</a> [OneToday](https://www.notion.so/MSA-2-264b5ca759e880f893aec3dbb510ee2a)
+
+- 🌱 I’m currently learning **Vue3, SpringBoot, JPA, JWT, ...**
+
+- 👨‍💻 All of my projects are available at [https://www.notion.so/ida-1fc1000aa806801bbc14ef6e22ead650](https://www.notion.so/ida-1fc1000aa806801bbc14ef6e22ead650)
+
+- 📫 How to reach me **iddadda241@gmail.com**
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iddadda&show_icons=true&locale=en&layout=compact" alt="iddadda" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iddadda&show_icons=true&locale=en" alt="iddadda" /></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iddadda&show_icons=true&locale=en&layout=compact" alt="iddadda" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iddadda&show_icons=true&locale=en" alt="iddadda" /></p>
+
+
+
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=iddadda&utm_content=farm">
 <img
