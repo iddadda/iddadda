@@ -12,10 +12,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iddadda&show_icons=true&locale=en&layout=compact" alt="iddadda" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iddadda&show_icons=true&locale=en" alt="iddadda" /></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iddadda&show_icons=true&locale=en&layout=compact" alt="iddadda" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iddadda&show_icons=true&locale=en" alt="iddadda" /></p>
-
 
 
 
@@ -28,19 +25,33 @@
 </a>
 
 <h6>Stack</h6>
+<p>
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/vue.js-%234FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white" />
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/css%20wizardry-%23F43059.svg?&style=for-the-badge&logo=css%20wizardry&logoColor=white" />
+  
+</p>
+
+<p>
+  
+<img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
 <img src="https://img.shields.io/badge/mariadb-%23003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white" />
+</p>
+
+<p>
 <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" />
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/tableau-%23E97627.svg?&style=for-the-badge&logo=tableau&logoColor=white" />
+  
+</p>
 
+<p>
+<img src="https://img.shields.io/badge/tableau-%23E97627.svg?&style=for-the-badge&logo=tableau&logoColor=white" />
+  
+</p>
 
 
 
