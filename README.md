@@ -14,16 +14,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iddadda&show_icons=true&locale=en" alt="iddadda" /></p>
 
-
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=iddadda&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/iddadda"
-  width="600"
-  height="300"
-/>
-</a>
-
 <h6>Stack</h6>
 <p>
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
@@ -53,3 +43,10 @@
   
 </p>
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=iddadda&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/iddadda"
+  width="600"
+  height="300"
+/>
+</a>
